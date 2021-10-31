@@ -7,7 +7,7 @@ Check out the WALKOFF community subreddit!
 https://www.reddit.com/r/walkoffcommunity/
 
 
-Welcome to WALKOFF's documentation!
+Welcome to FUCKING WALKOFF's documentation!
 ===================================
 This documentation is intended as a reference for app and workflow developers as well as project contributors and operators.
 Here you will find walkthroughs, tutorials and other useful information about applications that are shipped with Walkoff, our changelog, and how to interact with Walkoff using its RESTful API.
@@ -61,7 +61,7 @@ Deploying WALKOFF in a Unix environment
    * Deploying and removing the Docker Stack.
    
 4. Launch WALKOFF with the bootloader, building components as well:
-
+       * This command not work !!!
        ./walkoff.sh up --build
 
        # If verbose output is desired:

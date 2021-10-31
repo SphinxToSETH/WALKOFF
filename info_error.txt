@@ -1,0 +1,16 @@
+2021-10-31 09:46:53,128 - UMPIRE - DEBUG:
+
+ERROR: docker-compose 1.29.2 has requirement PyYAML<6,>=3.10, but you'll have pyyaml 6.0 which is incompatible.
+ERROR: docker-compose 1.29.2 has requirement websocket-client<1,>=0.32.0, but you'll have websocket-client 1.2.1 which is incompatible.
+
+2021-10-31 09:46:53,128 - UMPIRE - DEBUG:ERROR: fastapi 0.70.0 has requirement pydantic!=1.7,!=1.7.1,!=1.7.2,!=1.7.3,!=1.8,!=1.8.1,<2.0.0,>=1.6.2, but you'll have pydantic 0.32.2 which is incompatible.
+
+
+You specified -d/--debug, which will use 'walkoff123456' as the password for all resources, This should be used for debug only. (Choose 'no' to use randomly generated passwords.)
+
+websocket-client >= 0.32.0
+pyyaml == 3.10
+
+
+UMPIRE - DEBUG:ERROR: docker-compose 1.29.2 has requirement websocket-client<1,>=0.32.0, but you'll have websocket-client 1.2.1 which is incompatible.
+
